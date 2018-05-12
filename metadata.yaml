@@ -1,0 +1,41 @@
+_repo: A-Librarian-s-Open-Shelf--Essays-on-Various-Subjects_13430
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bostwick, Arthur E. (Arthur Elmore)
+    aliases:
+    - Bostwick, Arthur Elmore
+    - Bostwick, A. E. (Arthur Elmore)
+    birthdate: 1860
+    deathdate: 1942
+    gutenberg_agent_id: '5044'
+    url: http://www.gutenberg.org/2009/agents/5044
+description: ''
+gutenberg_issued: '2004-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13430'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Libraries'
+- !lcsh 'Books and reading'
+- !lcc 'PS'
+- !lcsh 'Education'
+tableOfContents: 'Do readers read? -- What makes people read? -- The passing of the
+  possessive; a study of book titles -- Selective education -- The uses of fiction
+  -- The value of association -- Modern educational methods -- Some economic features
+  of libraries -- Simon Newcomb: America''s foremost astronomer -- The companionship
+  of books -- Atomic theories of energy -- The advertisement of ideas -- The public
+  library, the public school, and the social center movement -- The systematization
+  of violence -- The art of re-reading -- History and heredity -- What the flag stands
+  for -- The people''s share in the public library -- Some tendencies of American
+  thought -- Drugs and the man -- How the community educates itself -- Clubwomen''s
+  reading -- Books for tired eyes -- The magic casement -- A word to believers.'
+title: 'A Librarian''s Open Shelf: Essays on Various Subjects'
+url: http://www.gutenberg.org/ebooks/13430
